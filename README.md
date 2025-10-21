@@ -1,6 +1,6 @@
 # Projeto TList - Lista Contígua em C++
 
-![C++](https://img.shields.io/badge/Language-C++-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![C++](https://img.shields.io/badge/Language-C++-blue) 
 
 ## Descrição
 
