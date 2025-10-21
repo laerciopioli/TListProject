@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.out
+bin/
+obj/
+*.cbp.user
+*.layout

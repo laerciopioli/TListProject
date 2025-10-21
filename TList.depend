@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1380030714 source:c:\users\thiago.santos\desktop\testes de c++\tad lista cont\tlist\main.cpp
+	<iostream>
+	<cstdlib>
+	"TList.h"
+
+1380028035 c:\users\thiago.santos\desktop\testes de c++\tad lista cont\tlist\tlist.h
+	<cstdlib>
+
+1380030151 source:c:\users\thiago.santos\desktop\testes de c++\tad lista cont\tlist\tlist.cpp
+	"TList.h"
+	<iostream>
+	<cstdlib>
+
+1380030714 source:m:\testes de c++\tad lista cont\tlist\main.cpp
+	<iostream>
+	<cstdlib>
+	"TList.h"
+
+1380028035 m:\testes de c++\tad lista cont\tlist\tlist.h
+	<cstdlib>
+
+1380030731 source:m:\testes de c++\tad lista cont\tlist\tlist.cpp
+	"TList.h"
+	<iostream>
+	<cstdlib>
+
+1380815419 source:c:\users\vinicios.nogueira\desktop\tad lista cont\tlist\main.cpp
+	<iostream>
+	<cstdlib>
+	"TList.h"
+
+1380810950 c:\users\vinicios.nogueira\desktop\tad lista cont\tlist\tlist.h
+	<cstdlib>
+
+1380814205 source:c:\users\vinicios.nogueira\desktop\tad lista cont\tlist\tlist.cpp
+	"TList.h"
+	<iostream>
+	<cstdlib>
+
+1380815419 source:c:\users\laercio.pioli\desktop\tad lista cont\tlist\main.cpp
+	<iostream>
+	<cstdlib>
+	"TList.h"
+
+1381420311 c:\users\laercio.pioli\desktop\tad lista cont\tlist\tlist.h
+	<cstdlib>
+
+1761086649 source:c:\users\laercio\desktop\tad lista cont\tlist\main.cpp
+	<iostream>
+	<cstdlib>
+	"TList.h"
+
+1761087414 c:\users\laercio\desktop\tad lista cont\tlist\tlist.h
+	<cstdlib>
+
+1761086827 source:c:\users\laercio\desktop\tad lista cont\tlist\tlist.cpp
+	"TList.h"
+	<iostream>
+	<cstdlib>
+
